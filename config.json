@@ -1,0 +1,187 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/solodroid-guide-privacy-policy",
+	  "email_feedback_and_report": "yourmail@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "0",
+      "admob_interstitial_unit_id": "0",
+      "admob_native_unit_id": "0",
+      "admob_app_open_unit_id": "0",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "0",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": false,
+      "show_banner_ad_post_details": false,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w"
+    } 
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Guia",
+      "title": "Compreendendo os Resultados: Como Ler Corretamente o Teste",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FCompreendendo%20os%20Resultados%20Como%20Ler%20Corretamente%20o%20Teste.html?alt=media&token=c6327c11-b3cc-4c93-ad69-5eb9b5a074c3&_gl=1*1rmk5bs*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM0NjguNjAuMC4w",
+      "video": ""
+    },
+	{
+      "id": 2,
+      "category": "Guia",
+      "title": "Aprenda a Fazer um Teste de Gravidez em Casa: Dicas e Truques",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FAprenda%20a%20Fazer%20um%20Teste%20de%20Gravidez%20em%20Casa%20Dicas%20e%20Truques.html?alt=media&token=8395b231-fec0-4776-9fd4-87e6b3833734&_gl=1*j9zm36*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM0ODguNDAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guia",
+      "title": "Teste de Gravidez Caseiro:  Como Usar o Teste de Gravidez para",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FTeste%20de%20Gravidez%20Caseiro%20%20Como%20Usar%20o%20Teste%20de%20Gravidez%20para.html?alt=media&token=3e3c1524-1ec1-4d21-9f0e-9acc38908c4b&_gl=1*twxdvf*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM1MjcuMS4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Guia",
+      "title": "Passo a Passo: Um Guia Pratico para um Teste de Gravidez em",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FPasso%20a%20Passo%20Um%20Guia%20Pratico%20para%20um%20Teste%20de%20Gravidez%20em.html?alt=media&token=d4360f27-b66c-4e99-9934-3fbe5fa455e9&_gl=1*1vwy1pa*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM1NDAuNDguMC4w",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Guia",
+      "title": "Guia Completo: Como Fazer um Teste de Gravidez em Casa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FGuia%20Completo%20Como%20Fazer%20um%20Teste%20de%20Gravidez%20em%20Casa.html?alt=media&token=9ec32431-ab0d-4161-93c2-be45d47f0c8c&_gl=1*6g6n7z*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM3MjcuNC4wLjA.",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Guia",
+      "title": "Sinais Iniciais de Gravidez: Como Realizar um Teste Eficaz em",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FSinais%20Iniciais%20de%20Gravidez%20Como%20Realizar%20um%20Teste%20Eficaz%20em.html?alt=media&token=356300db-7bb3-4547-8abf-8d4ffd7300d7&_gl=1*1ul34dn*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM1NzUuMTMuMC4w",
+      "video": ""
+    },
+	{
+      "id": 7,
+      "category": "Guia",
+      "title": "Passos Simples para Realizar um Teste de Gravidez em Casa",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FPassos%20Simples%20para%20Realizar%20um%20Teste%20de%20Gravidez%20em%20Casa.html?alt=media&token=6005c55f-0db8-4cff-879b-0ceeb97e88fe&_gl=1*1ap80c8*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM1OTQuNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Guia",
+      "title": "Teste de Gravidez Online: Passo a Passo para Resultados",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FTeste%20de%20Gravidez%20Caseiro%20%20Como%20Usar%20o%20Teste%20de%20Gravidez%20para.html?alt=media&token=3e3c1524-1ec1-4d21-9f0e-9acc38908c4b&_gl=1*ka4qnw*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM2NzEuNjAuMC4w",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Guia",
+      "title": "Guia Completo: Como Fazer um Teste de Gravidez Online de",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2Fimage.png?alt=media&token=e5b863ab-d17f-4a12-b5a7-c077c9120366&_gl=1*1bu9gj3*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzMxMzMuNjAuMC4w",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-5fceb.appspot.com/o/Testedegravidezgua2%2FGuia%20Completo%20Como%20Fazer%20um%20Teste%20de%20Gravidez%20Online%20de.html?alt=media&token=41343da4-0e80-4595-a5fa-205be3b7cc4a&_gl=1*mymu01*_ga*MTYzMjY3MjM0LjE2OTUxMjk2ODY.*_ga_CW55HF8NVT*MTY5ODkzMjI2Mi4yMS4xLjE2OTg5MzM2OTkuMzIuMC4w",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 2,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 3,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 4,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 5,
+      "title": "",
+      "image": "",
+      "url": ""
+    },
+    {
+      "id": 6,
+      "title": "",
+      "image": "",
+      "url": ""
+    }
+  ]
+}
